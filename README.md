@@ -20,11 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lakmal98&theme=dark&hide_border=false)
 
 </div>
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
 
 ## 📫 Reach out to me
 
@@ -85,3 +81,9 @@
 
 ### Other tools & Technologies
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
