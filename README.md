@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm Dimuthu Lakmal</h2>
+<h2 align="left">Hello 👋! I'm Nimesh Sayuranga</h2>
 
 [![](https://visitcount.itsvg.in/api?id=lakmal98&icon=0&color=0)](https://visitcount.itsvg.in)
 
